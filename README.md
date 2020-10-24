@@ -5,7 +5,8 @@
   <img width="600" height="300" src="Images/linkedin_learning_logo.jpg">
 </p>
 
-The following folders are the result of my attempt to showcase my competency with various programming languages and tools.
+<p>My LinkedIn: www.linkedin.com/in/asia-hewett </p>
+<p>The following folders are the result of my attempt to showcase my competency with various programming languages and tools.</p>
 
 ### Log
 
