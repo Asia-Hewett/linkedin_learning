@@ -17,3 +17,7 @@ In this course from the experts at Madecraft, you can learn how to build accurat
 ##### 10/23/20 @ 05:05 P.M.
 ##### Learning Python;
 Joe Marini provides an overview of the installation process, basic Python syntax, and an example of how to construct and run a simple Python program. Learn to work with dates and times, read and write files, and retrieve and parse HTML, JSON, and XML data from the web. Ch1 is session zero. I.E. Downloading tools/libraries/etc. Ch 2-5 are technical skills.
+
+##### 12/02/20 @ 03:33 P.M.
+##### SQL Essential Training
+Received an overview and knowledge of basic and essential SQL functions and skills. The cert required four and a half hours of exercises, drills, quizzes and full stack CRUD operation implementation. 
